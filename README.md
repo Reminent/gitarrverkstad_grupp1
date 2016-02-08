@@ -1,2 +1,3 @@
 # schema_grund
-Grund för schema planering
+
+Grund för att utveckla ett schema för javawebb projekt.
